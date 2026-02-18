@@ -6,5 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Run a greeting
+      - name: Run Python Tests
         run: python3 test_calc.py
