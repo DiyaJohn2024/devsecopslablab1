@@ -1,0 +1,9 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Dummy package for CI pipeline",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
