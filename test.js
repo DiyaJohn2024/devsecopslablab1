@@ -1,1 +1,3 @@
-console.log("Dummy test passed");
+test('dummy test', () => {
+  expect(true).toBe(true);
+});
